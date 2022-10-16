@@ -34,6 +34,17 @@ const result2 = toKhmer("0123456789abc");
 // => ០១២៣៤៥៦៧៨៩abc
 ```
 
+
+## Benchmark
+
+```
+khmernumber: 0.686ms
+  toASCII x 2,926,953 ops/sec ±1.87% (91 runs sampled)
+  toKhmer x 2,446,022 ops/sec ±1.29% (91 runs sampled)
+  String.replace: Khmer -> ASCII x 622,731 ops/sec ±1.32% (88 runs sampled)
+  String.replace: ASCII -> Khmer x 816,557 ops/sec ±0.33% (97 runs sampled)
+```
+
 ## License
 
 MIT
