@@ -7,8 +7,10 @@
 	"repository": "seanghay/khmernumber",
 	"files": [
 		"index.js",
-		"index.mjs"
+		"index.mjs",
+		"index.d.ts"
 	],
+	"types": "./index.d.ts",
 	"scripts": {
 		"test": "node test.js"
 	},
