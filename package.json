@@ -1,0 +1,19 @@
+{
+	"name": "khmernumber",
+	"version": "0.0.0",
+	"description": "Khmer number conversion functions",
+	"main": "index.js",
+	"module": "./index.mjs",
+	"repository": "seanghay/khmernumber",
+	"files": [
+		"index.js",
+		"index.mjs"
+	],
+	"keywords": [
+		"khmer",
+		"numerals",
+		"number"
+	],
+	"author": "Seanghay Yath <seanghay.dev@gmail.com>",
+	"license": "MIT"
+}
