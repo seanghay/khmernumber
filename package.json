@@ -1,6 +1,6 @@
 {
 	"name": "khmernumber",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Khmer number conversion functions",
 	"main": "index.js",
 	"module": "./index.mjs",
