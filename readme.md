@@ -1,6 +1,6 @@
 # Khmer Number
 
-The smallest (0.3kB) Khmer conversion functions.
+The smallest (0.25kB) and fastest Khmer number conversion functions. 
 
 ## Installation
 
