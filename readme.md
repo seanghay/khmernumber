@@ -45,6 +45,10 @@ khmernumber: 0.686ms
   String.replace: ASCII -> Khmer x 816,557 ops/sec ±0.33% (97 runs sampled)
 ```
 
+## Related
+
+- [seanghay/khmerword](https://github.com/seanghay/khmerword)
+
 ## License
 
 MIT
