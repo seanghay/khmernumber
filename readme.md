@@ -49,6 +49,7 @@ khmernumber: 0.686ms
 
 - [seanghay/khmerword](https://github.com/seanghay/khmerword)
 - [seanghay/khmercal](https://github.com/seanghay/khmercal)
+- [seanghay/split-khmer](https://github.com/seanghay/split-khmer)
 
 ## License
 
