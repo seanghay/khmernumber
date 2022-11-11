@@ -48,6 +48,7 @@ khmernumber: 0.686ms
 ## Related
 
 - [seanghay/khmerword](https://github.com/seanghay/khmerword)
+- [seanghay/khmercal](https://github.com/seanghay/khmercal)
 
 ## License
 
